@@ -1,3 +1,6 @@
+#include <MPU9250.h>
+#include <quaternionFilters.h>
+
 /*************************************************************
   Download latest Blynk library here:
     https://github.com/blynkkk/blynk-library/releases/latest
